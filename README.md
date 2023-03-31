@@ -1,6 +1,8 @@
 # basic-calc-rust
 
-How to build my stupid calculator:
+Christian, I fixed your fucking calculator, now it's in the supreme language.
+
+How to build my stupid fucking calculator, in case you have no fucking clue how to use a computer:
 Go into your shell (powershell, bash, I don't give a monkey's ass)
 
 ```sh
