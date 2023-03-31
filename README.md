@@ -15,7 +15,7 @@ example:
 
 ```
 = 4.533 * 34
-```'
+```
 
 If it doesn't work, it's your fault. I don't make mistakes.
 Oh I'm sorry, the program failed? When?
